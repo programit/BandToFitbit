@@ -50,6 +50,7 @@
     <Compile Include="BandDataContract.cs" />
     <Compile Include="BandDataProvider.cs" />
     <Compile Include="BandTokenContract.cs" />
+    <Compile Include="FitbitPublishResponseContract.cs" />
     <Compile Include="Secrets.cs" />
     <Compile Include="FitbitDataProvider.cs" />
     <Compile Include="FitbitGetStepsDataContract.cs" />
